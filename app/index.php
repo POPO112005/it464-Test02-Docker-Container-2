@@ -35,7 +35,7 @@ if ($conn->connect_error) {
     <table>
         <tr>
             <th>ID</th>
-            <th>Student ID</th>
+            <th>1660700988</th>
             <th>Name</th>
             <th>Project Title</th>
             <th>Shift Status</th>
